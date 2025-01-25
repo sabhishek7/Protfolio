@@ -1,0 +1,42 @@
+h2{
+    color: brown;
+    text-decoration: underline;
+    margin-left: 10px;
+}
+
+img{
+    border: rgb(169, 145, 145) 5px solid;
+    margin-left: 10px;
+}
+#sp{
+    color: blue;
+    text-decoration: underline;
+}
+
+
+span{
+    color: #000;
+}
+
+body{
+    border: orange solid 4px;
+}
+#re{
+    color: blue;
+   
+    text-decoration: underline;
+    border: 5px solid blue;
+    width: 15%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+
+}
+
+p{
+    margin-left: 10px;
+}
+
+a:hover{
+    color:red;
+}
